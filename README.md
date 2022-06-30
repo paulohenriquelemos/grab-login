@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/images/grab-login-desktop.png" alt="Logo" width="350" />
+  <img src="/public/images/grab-login-desktop.png" alt="Logo" width="450" />
   <h3 align="center">Grab - Página de login</h3>
 </p>
 
@@ -33,15 +33,15 @@ Criar uma página responsiva de login e verificar se o formulário foi preenchid
 
 <div align="center">
     <h3>Layout desktok</h3>
-    <img src="/images/grab-login-desktop.png" alt="Layout Desktop" width="350" />
+    <img src="/public/images/grab-login-desktop.png" alt="Layout Desktop" />
 </div>
 <div align="center">
     <h3>Layout mobile</h3>
-    <img src="/images/grab-login-mobile.png" alt="Layout mobile" width="350" />
+    <img src="/public/images/grab-login-mobile.png" alt="Layout mobile" height="600" />
 </div>
 <div align="center">
     <h3>Animação</h3>
-    <img src="/images/grab-login.gif" alt="Animação" width="350" />
+    <img src="/public/images/grab-login.gif" alt="Animação" />
 </div>
 
 ## Contato
